@@ -1,4 +1,3 @@
-import React from "react";
 
 export default function MarqueeBanner() {
   const content = "Say 👋 to the new way of banking";

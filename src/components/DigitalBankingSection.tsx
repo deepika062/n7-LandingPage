@@ -1,4 +1,3 @@
-import React from "react";
 import phone1 from "../assets/iPhone-13-Pro-Front (1).png";
 import phone2 from "../assets/iPhone 13 Pro.png";
 import phone3 from "../assets/iPhone-13-Pro-Front.png";

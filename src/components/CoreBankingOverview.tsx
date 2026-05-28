@@ -1,4 +1,3 @@
-import React from "react";
 import coreBankingOverviewImage from "../assets/Mask group.png"; 
 
 export default function CoreBankingOverview() {
