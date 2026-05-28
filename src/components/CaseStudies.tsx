@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 // Import the image file
 import caseStudyImage from '../assets/CaseStudies.png'; // Ensure this path is correct and the image is in the specified location
 

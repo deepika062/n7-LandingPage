@@ -1,4 +1,4 @@
-import React from 'react';
+
 import n7Logo from '../assets/Mask group (2).png'; // Ensure this path is correct
 
 export default function Footer() {

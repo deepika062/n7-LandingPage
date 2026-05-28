@@ -1,4 +1,3 @@
-import React from "react";
 import coreBankingDashboard from "../assets/Mask group (1).png";
 import FeatureCheckItem from "./FeatureCheckItem";
 

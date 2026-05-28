@@ -1,18 +1,16 @@
-import React from "react";
-
 export default function PaperlessCTA() {
   return (
     <section className="w-full bg-[#000D12] py-12 md:py-16 lg:py-20 px-6 md:px-12 lg:px-20">
       <div 
-        className="relative mx-auto overflow-hidden"
+        className="relative mx-auto overflow-hidden min-h-[300px] md:min-h-[350px] lg:min-h-[427px]"
         style={{
           width: '100%',
           maxWidth: '1279px',
-          minHeight: '300px',
-          md: 'minHeight: 350px',
-          lg: 'minHeight: 427px',
           borderRadius: '27px',
           background: 'linear-gradient(99.21deg, #031E2A -12.22%, #000D12 59.26%)',
+          // borderImage is usually handled via CSS classes or raw CSS, 
+          // keeping as style object per your original implementation
+          border: '1px solid transparent',
           borderImageSource: 'linear-gradient(106.53deg, #00B4FD -5.68%, #003ACE 86.98%)',
           borderImageSlice: 1
         }}
